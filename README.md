@@ -3,7 +3,7 @@ Computer and systems engineering student at **UTP** (Technological University of
 
 Basic knowledge in C++, Python, HTML, CSS and JS, and some MySQL (for now).
 
-Currently taking a course in HMTL, CSS, JS, AJAX, PHP and MySQL. 
+Currently taking a course in HMTL, CSS, JS, AJAX, PHP and MySQL at Udemy. 
 
 - My linkedin profile : https://www.linkedin.com/in/juan-camilo-casta%C3%B1o-casas-389658240
 - Email: camilo.castano.casas@gmail.com 
